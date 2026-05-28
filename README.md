@@ -1,6 +1,6 @@
 # NT548 - CÔNG NGHỆ DEVOPS VÀ ỨNG DỤNG (UIT)
 
-## 📋 BÀI TẬP THỰC HÀNH 01
+## BÀI TẬP THỰC HÀNH 01
 
 # Quản lý và triển khai hạ tầng AWS bằng Terraform
 
