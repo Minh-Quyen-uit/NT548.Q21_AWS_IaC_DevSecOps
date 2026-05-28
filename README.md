@@ -68,7 +68,7 @@ Bài thực hành nhằm mục tiêu:
 
 <div align="center">
 
-![Folder Architecture](docs/images/[NT548]folder_architecture.png?v=999)
+<img src="docs/images/[NT548]folder_architecture.png?v=999" width="33%">
 *Sơ đồ cấu trúc thư mục dự án*
 
 </div>
