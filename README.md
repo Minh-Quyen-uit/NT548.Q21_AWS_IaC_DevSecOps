@@ -69,7 +69,9 @@ Bài thực hành nhằm mục tiêu:
 <div align="center">
 
 <img src="docs/images/%5BNT548%5Dfolder_architecture.png?v=999" width="33%">
-*Sơ đồ cấu trúc thư mục dự án*
+
+<br>
+<i>Sơ đồ cấu trúc thư mục dự án</i>
 
 </div>
 
